@@ -1,6 +1,11 @@
 {
 	"comment": "",
 	"ignore": "test",
-	"package": [],
+	"package": [
+		{
+			"path": "main.go",
+			"revision": ""
+		}
+	],
 	"rootPath": "github.com/Juliet121/Library"
 }
